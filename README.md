@@ -15,11 +15,11 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 
 ### 📱 Redes Sociais
 
-- **[Instagram](https://www.instagram.com/devopskelvin/)**: Memes e conteúdo diário.
+- **[Instagram](https://www.instagram.com/devopskelvin)**: Memes e conteúdo diário.
 - **[TikTok](https://www.tiktok.com/@devopskelvin)**: Vídeos rápidos e divertidos.
 - **[YouTube](https://www.youtube.com/@devopskelvin)**: Tutoriais e conteúdo aprofundado.
 - **[GitHub](https://github.com/devopskelvin)**: Meus projetos e códigos.
-- **[LinkedIn](https://www.linkedin.com/in/kelvin-alef/)**: Conexão profissional.
+- **[LinkedIn](https://www.linkedin.com/in/kelvin-alef)**: Conexão profissional.
 
 ### 📚 E-books e Cursos
 
@@ -32,5 +32,5 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 ---
 
 <div align="center">
-  <p>Desenvolvido com ❤️ por <a href="https://github.com/devopskelvin">Kelvin Alef</a></p>
+  <p>Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/kelvin-alef">Kelvin Alef</a></p>
 </div>
