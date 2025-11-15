@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
+:root {
+    --background-color: #0a0a0a;
+    --primary-text-color: #e0e0e0;
+    --dark-blue: #0d2c54;
+    --purple: #4c1d95;
+    --neon-blue: #00bfff;
+    --glow-color: rgba(0, 191, 255, 0.75);
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--primary-text-color);
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.container {
+    width: 90%;
+    max-width: 680px;
+    padding: 2rem;
+}
+
+.profile-header {
+    margin-bottom: 2rem;
+}
+
+.profile-logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid var(--neon-blue);
+    box-shadow: 0 0 15px var(--glow-color), 0 0 25px var(--glow-color);
+    animation: pulse 2s infinite;
+}
+
+.profile-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-top: 1rem;
+    color: var(--neon-blue);
+    text-shadow: 0 0 10px var(--glow-color);
+}
+
+.links-section, .products-section {
+    margin-bottom: 2.5rem;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--primary-text-color);
+    border-bottom: 2px solid var(--purple);
+    padding-bottom: 0.5rem;
+    display: inline-block;
+}
+
+.link-button {
+    display: block;
+    background-color: var(--dark-blue);
+    color: var(--primary-text-color);
+    text-decoration: none;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 8px;
+    border: 1px solid var(--purple);
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+.link-button:hover {
+    background-color: var(--purple);
+    border-color: var(--neon-blue);
+    transform: translateY(-3px);
+    box-shadow: 0 0 15px var(--glow-color);
+}
+
+footer {
+    margin-top: auto;
+    padding: 1.5rem;
+    font-size: 0.9rem;
+    color: #a0a0a0;
+}
+
+footer a {
+    color: var(--neon-blue);
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        box-shadow: 0 0 15px var(--glow-color), 0 0 25px var(--glow-color);
+    }
+    50% {
+        transform: scale(1.05);
+        box-shadow: 0 0 25px var(--glow-color), 0 0 40px var(--glow-color);
+    }
+    100% {
+        transform: scale(1);
+        box-shadow: 0 0 15px var(--glow-color), 0 0 25px var(--glow-color);
+    }
+}
