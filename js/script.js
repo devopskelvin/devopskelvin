@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const titleElement = document.querySelector('.profile-title');
     if (titleElement) {
-        const originalText = "Confie no Kelvinho";
+        const originalText = titleElement.textContent;
         titleElement.innerText = '';
         let i = 0;
         
