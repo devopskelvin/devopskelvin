@@ -1,7 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     const titleElement = document.querySelector('.profile-title');
     if (titleElement) {
-        const originalText = titleElement.textContent;
+        // Leia do atributo data-title, ou use textContent como fallback
+        const originalText = titleElement.dataset.title || titleElement.textContent;
         titleElement.innerText = '';
         let i = 0;
         

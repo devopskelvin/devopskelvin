@@ -36,24 +36,31 @@
             padding-left: 20px;
         }
         .buy-button-container {
-            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1.5rem;
             margin-top: 2rem;
+            flex-wrap: wrap;
         }
-        .buy-button {
-            background-color: #00bfff;
-            color: #0a0a0a;
-            font-weight: bold;
-            font-size: 1.2rem;
-            padding: 1rem 2rem;
-            border-radius: 8px;
+        /* O botão principal do tema, agora usado para o link secundário */
+        .view-on-hotmart-button {
+            background-color: var(--dark-blue);
+            color: var(--primary-text-color);
             text-decoration: none;
+            padding: 0.8rem 1.5rem;
+            border-radius: 8px;
+            border: 1px solid var(--purple);
+            font-size: 1rem;
+            font-weight: bold;
             transition: all 0.3s ease;
-            box-shadow: 0 0 20px var(--glow-color);
-            display: inline-block;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
         }
-        .buy-button:hover {
-            transform: scale(1.05);
-            box-shadow: 0 0 30px var(--glow-color);
+        .view-on-hotmart-button:hover {
+            background-color: var(--purple);
+            border-color: var(--neon-blue);
+            transform: translateY(-3px);
+            box-shadow: 0 0 15px var(--glow-color);
         }
         .back-link {
             display: inline-block;
@@ -81,7 +88,7 @@
 
     <div class="container product-container">
         <header class="profile-header">
-            <h1 class="profile-title">Kubernetes: GitOps Básico</h1>
+            <h1 class="profile-title" data-title="Kubernetes: GitOps Básico">Kubernetes: GitOps Básico</h1>
         </header>
 
         <main>
@@ -109,7 +116,8 @@
             <div class="buy-button-container">
                 <a onclick="return false;" href="https://pay.hotmart.com/O102834444S?checkoutMode=2" class="hotmart-fb hotmart__button-checkout">
                     <img src='https://static.hotmart.com/img/btn-buy-green.png' alt="Comprar agora">
-                </a> 
+                </a>
+                <a href="https://go.hotmart.com/O102834444S" target="_blank" class="view-on-hotmart-button">Ver na Hotmart</a>
             </div>
         </main>
 
