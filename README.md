@@ -24,7 +24,7 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 ### 📚 E-books e Cursos
 
 - **[Kubernetes - GitOps Básico](https://devopskelvin.github.io/devopskelvin/products/kubernetes-gitops-basico.html)**: Aprenda a automatizar seus deploys com Argo CD.
-- **[Git Cheat Sheet](https://devopskelvin.github.io/products/devopskelvin/git-cheat-sheet.html)**: Um guia de consulta rápida para os comandos essenciais do Git.
+- **[Git Cheat Sheet](https://devopskelvin.github.io/devopskelvin/products/git-cheat-sheet.html)**: Um guia de consulta rápida para os comandos essenciais do Git.
 - **[Linux Cheat Sheet](https://devopskelvin.github.io/devopskelvin/products/linux-cheat-sheet.html)**: Domine a linha de comando com este guia de referência.
 - **[Docker Cheat Sheet](https://devopskelvin.github.io/devopskelvin/products/docker-cheat-sheet.html)**: Acelere seu desenvolvimento com containers.
 - **[Kubernetes Cheat Sheet](https://devopskelvin.github.io/devopskelvin/products/kubernetes-cheat-sheet.html)**: O guia de `kubectl` que faltava para gerenciar seus clusters.
