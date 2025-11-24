@@ -22,7 +22,6 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 - **[Threads](https://www.threads.com/@devopskelvin)**
 - **[X](https://x.com/devopskelvin)**
 - **[LinkedIn](https://www.linkedin.com/in/devopskelvin)**
-- **[GitHub](https://github.com/devopskelvin)**
 
 ### 📚 E-books e Cursos
 
