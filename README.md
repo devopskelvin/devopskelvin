@@ -9,17 +9,20 @@
 ## 🔗 Links Úteis
 
 Você pode encontrar todos os meus links centralizados na minha página do GitHub Pages:
-**[devopskelvin.github.io](https://devopskelvin.github.io/)**
+**[devopskelvin.github.io](https://devopskelvin.github.io/devopskelvin)**
 
 ---
 
 ### 📱 Redes Sociais
 
-- **[Instagram](https://www.instagram.com/devopskelvin)**: Memes e conteúdo diário.
-- **[TikTok](https://www.tiktok.com/@devopskelvin)**: Vídeos rápidos e divertidos.
-- **[YouTube](https://www.youtube.com/@devopskelvin)**: Tutoriais e conteúdo aprofundado.
-- **[GitHub](https://github.com/devopskelvin)**: Meus projetos e códigos.
-- **[LinkedIn](https://www.linkedin.com/in/kelvin-alef)**: Conexão profissional.
+- **[Instagram](https://www.instagram.com/devopskelvin)**
+- **[TikTok](https://www.tiktok.com/@devopskelvin)**
+- **[YouTube](https://www.youtube.com/@devopskelvin)**
+- **[Facebook](https://www.facebook.com/profile.php?id=61581705878991)**
+- **[Threads](https://www.threads.com/@devopskelvin)**
+- **[X](https://x.com/devopskelvin)**
+- **[LinkedIn](https://www.linkedin.com/in/devopskelvin)**
+- **[GitHub](https://github.com/devopskelvin)**
 
 ### 📚 E-books e Cursos
 
