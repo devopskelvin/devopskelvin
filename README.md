@@ -13,16 +13,6 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 
 ---
 
-### 📱 Redes Sociais
-
-- **[Instagram](https://www.instagram.com/devopskelvin)**
-- **[TikTok](https://www.tiktok.com/@devopskelvin)**
-- **[YouTube](https://www.youtube.com/@devopskelvin)**
-- **[Facebook](https://www.facebook.com/profile.php?id=61581705878991)**
-- **[Threads](https://www.threads.com/@devopskelvin)**
-- **[X](https://x.com/devopskelvin)**
-- **[LinkedIn](https://www.linkedin.com/in/devopskelvin)**
-
 ### 📚 E-books e Cursos
 
 - **[Kubernetes - GitOps Básico](https://devopskelvin.github.io/devopskelvin/products/kubernetes-gitops-basico.html)**: Aprenda a automatizar seus deploys com Argo CD.
@@ -30,6 +20,17 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 - **[Linux Cheat Sheet](https://devopskelvin.github.io/devopskelvin/products/linux-cheat-sheet.html)**: Domine a linha de comando com este guia de referência.
 - **[Docker Cheat Sheet](https://devopskelvin.github.io/devopskelvin/products/docker-cheat-sheet.html)**: Acelere seu desenvolvimento com containers.
 - **[Kubernetes Cheat Sheet](https://devopskelvin.github.io/devopskelvin/products/kubernetes-cheat-sheet.html)**: O guia de `kubectl` que faltava para gerenciar seus clusters.
+
+### 📱 Redes Sociais
+
+- **[Instagram](https://www.instagram.com/devopskelvin)**
+- **[TikTok](https://www.tiktok.com/@devopskelvin)**
+- **[Kwai](https://k.kwai.com/u/@devopskelvin/K0KuCUEt)**
+- **[YouTube](https://www.youtube.com/@devopskelvin)**
+- **[Facebook](https://www.facebook.com/profile.php?id=61581705878991)**
+- **[Threads](https://www.threads.com/@devopskelvin)**
+- **[X](https://x.com/devopskelvin)**
+- **[LinkedIn](https://www.linkedin.com/in/devopskelvin)**
 
 ---
 
