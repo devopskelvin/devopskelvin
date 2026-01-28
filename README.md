@@ -13,6 +13,10 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 
 ---
 
+### 🛒 Lista de Recomendações
+
+- **[Mercado Livre](https://mercadolivre.com/sec/33wC1au)**
+
 ### 📚 E-books e Cursos
 
 - **[Kubernetes - GitOps Básico](https://devopskelvin.github.io/devopskelvin/products/kubernetes-gitops-basico.html)**: Aprenda a automatizar seus deploys com Argo CD.
