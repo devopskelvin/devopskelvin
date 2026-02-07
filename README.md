@@ -13,7 +13,7 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 
 ---
 
-### 👕 BugFits: Seu códifo pode falhar, seu estilo não.
+### 👕 Seu código pode falhar, seu estilo não.
 
 - **[BugFits](https://mont.ink/bugfits)**
 
