@@ -13,10 +13,6 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 
 ---
 
-### 👕 Seu código pode falhar, seu estilo não.
-
-- **[BugFits](https://mont.ink/bugfits)**
-
 ### 🛒 Lista de Recomendações
 
 - **[Mercado Livre](https://mercadolivre.com/sec/33wC1au)**
@@ -33,11 +29,10 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 
 - **[Instagram](https://www.instagram.com/devopskelvin)**
 - **[TikTok](https://www.tiktok.com/@devopskelvin)**
-- **[Kwai](https://k.kwai.com/u/@devopskelvin/K0KuCUEt)**
 - **[YouTube](https://www.youtube.com/@devopskelvin)**
+- **[Twitch](https://www.twitch.tv/devopskelvin)**
 - **[Facebook](https://www.facebook.com/profile.php?id=61581705878991)**
 - **[Threads](https://www.threads.com/@devopskelvin)**
-- **[X](https://x.com/devopskelvin)**
 - **[LinkedIn](https://www.linkedin.com/in/devopskelvin)**
 
 ---
