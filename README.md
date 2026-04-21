@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/logo.png" alt="Logo Confie no Kelvinho" width="150" />
+  <img src="logo.png" alt="Logo Confie no Kelvinho" width="150" />
   <h1>Confie no Kelvinho</h1>
   <p>Dicas, memes e tutoriais sobre DevOps, programação e cultura tech.</p>
 </div>
