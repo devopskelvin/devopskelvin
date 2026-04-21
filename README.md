@@ -34,5 +34,5 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 ---
 
 <div align="center">
-  <p>Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/kelvin-alef">Kelvin Alef</a></p>
+  <p>Desenvolvido por <a href="https://www.linkedin.com/in/kelvin-alef">Kelvin Alef</a></p>
 </div>
