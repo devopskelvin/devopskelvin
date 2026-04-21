@@ -13,15 +13,9 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 
 ---
 
-### 📱 Redes Sociais
+### 🛒 Lista de Recomendações
 
-- **[Instagram](https://www.instagram.com/devopskelvin)**
-- **[TikTok](https://www.tiktok.com/@devopskelvin)**
-- **[YouTube](https://www.youtube.com/@devopskelvin)**
-- **[Facebook](https://www.facebook.com/profile.php?id=61581705878991)**
-- **[Threads](https://www.threads.com/@devopskelvin)**
-- **[X](https://x.com/devopskelvin)**
-- **[LinkedIn](https://www.linkedin.com/in/devopskelvin)**
+- **[Mercado Livre](https://mercadolivre.com/sec/33wC1au)**
 
 ### 📚 E-books e Cursos
 
@@ -30,6 +24,16 @@ Você pode encontrar todos os meus links centralizados na minha página do GitHu
 - **[Linux Cheat Sheet](https://devopskelvin.github.io/devopskelvin/products/linux-cheat-sheet.html)**: Domine a linha de comando com este guia de referência.
 - **[Docker Cheat Sheet](https://devopskelvin.github.io/devopskelvin/products/docker-cheat-sheet.html)**: Acelere seu desenvolvimento com containers.
 - **[Kubernetes Cheat Sheet](https://devopskelvin.github.io/devopskelvin/products/kubernetes-cheat-sheet.html)**: O guia de `kubectl` que faltava para gerenciar seus clusters.
+
+### 📱 Redes Sociais
+
+- **[Instagram](https://www.instagram.com/devopskelvin)**
+- **[TikTok](https://www.tiktok.com/@devopskelvin)**
+- **[YouTube](https://www.youtube.com/@devopskelvin)**
+- **[Twitch](https://www.twitch.tv/devopskelvin)**
+- **[Facebook](https://www.facebook.com/profile.php?id=61581705878991)**
+- **[Threads](https://www.threads.com/@devopskelvin)**
+- **[LinkedIn](https://www.linkedin.com/in/devopskelvin)**
 
 ---
 
